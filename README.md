@@ -1,4 +1,3 @@
 # Assignment
-Practicing Git concepts
-I am editing the README file. Adding some more details about the project description.
+Practicing Git concepts.
 
